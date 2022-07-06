@@ -1,4 +1,4 @@
 **kalmanOneParam**
 
-```SimpleKalmanFilter *_simpleKalman = new SimpleKalmanFilter(mean_error,mean_estimate,konstantanta);```
+```SimpleKalmanFilter *_simpleKalman = new SimpleKalmanFilter(mean_error,mean_estimate,konstanta_change);```
 
